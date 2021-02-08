@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package jenkins;
+package jenkins
 /**
  *
  * @author josama2021daw2
